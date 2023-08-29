@@ -1,5 +1,5 @@
 # SME Customer Churn Prediction for PowerCo
-### BCG Data Science & Advanced Analytics Virtual Experience Program | BCG Data Science Job Simulation
+### BCG Data Science & Advanced Analytics V E P | BCG Data Science Job Simulation
 #### https://www.theforage.com/virtual-internships/Tcz8gTtprzAS4xSoK | BCG X | Forage
 
 ### Objective
@@ -9,7 +9,7 @@ PowerCo is a major gas and electricity utility that supplies to corporate, SME (
 ### Approach & Solution
 #### Task 1: Business Understanding & Hypothesis Framing
 (Business Understanding, Hypothesis Framing, Communication)
-
+* 
 #### Task 2: Exploratory Data Analysis
 (Python Programming, Exploratory Data Analysis, Data Visualization)
 
