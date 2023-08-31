@@ -21,3 +21,4 @@ PowerCo is a major gas and electricity utility that supplies to corporate, SME (
 
 !! Check out specific folders for more detail & complete solution.
 
+![Data Science   Advanced Analytics VEP - Badge](https://github.com/AyushiAsthana18/SME-Customer-Churn-Prediction-for-PowerCo/assets/63499899/7fd7b035-38a3-45ee-b7d4-6ed40e3e62d9)
